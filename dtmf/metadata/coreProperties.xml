@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<cp:coreProperties xmlns:cp="http://schemas.openxmlformats.org/package/2006/metadata/core-properties"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dcterms:created xsi:type="dcterms:W3CDTF">2020-11-10T05:46:15Z</dcterms:created>
+    <dc:creator>长鱼</dc:creator>
+    <dc:description>DTFM系统收发模拟</dc:description>
+    <dcterms:modified xsi:type="dcterms:W3CDTF">2020-11-17T16:07:30Z</dcterms:modified>
+    <dc:title>DTMF Demo</dc:title>
+    <cp:version>1.0</cp:version>
+</cp:coreProperties>
